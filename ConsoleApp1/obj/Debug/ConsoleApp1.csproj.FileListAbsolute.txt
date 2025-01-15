@@ -1,0 +1,14 @@
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\p.exe.config
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\p.exe
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\p.pdb
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\p.exe
+C:\Users\zvrva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\p.pdb
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\bin\Debug\p.exe.config
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\bin\Debug\p.exe
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\bin\Debug\p.pdb
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\obj\Debug\p.exe
+C:\Users\zvrva\source\repos\АТРПВ_лаб_1_С#\ConsoleApp1\obj\Debug\p.pdb
